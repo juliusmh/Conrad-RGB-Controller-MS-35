@@ -1,0 +1,1 @@
+A dll to control the RGB-Controller-MS-35 by Conrad. Easy to use .dll, written in vb.net, compatible with all .NET frameworks > 4.0. 
