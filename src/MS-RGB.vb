@@ -1,5 +1,5 @@
-﻿```
-<#@ Template Language="c#" HostSpecific="True" Inherits="DynamicTransform" #>
+﻿```vbscript
+<#@ Template Language="vb" HostSpecific="True" Inherits="DynamicTransform" #>
 <#@ Output Extension="vb" #>
 
 'DLL to Control the MSRGB-35 
