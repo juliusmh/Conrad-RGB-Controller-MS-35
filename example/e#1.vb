@@ -8,11 +8,10 @@ Imports System.Threading
 
 Module Module1
     Dim sport As New System.IO.Ports.SerialPort
-    Dim mode As Integer = 0
+
   
     Sub Main()
 
-        Console.WriteLine("Choose a mode to visualize")
 start:
         Console.Write("COM")
         Dim com = "COM" & Console.ReadLine
