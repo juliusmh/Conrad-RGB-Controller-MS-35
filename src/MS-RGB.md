@@ -1,4 +1,8 @@
-﻿'DLL to Control the MSRGB-35 
+﻿# This is the sourcecode for the .dll
+
+```vb.net
+
+'DLL to Control the MSRGB-35 
 'By Julius HInze 
 'Copyright 2013
 
@@ -162,4 +166,4 @@ End Class
 'DLL to Control the MSRGB-35 
 'By Julius HInze 
 'Copyright 2013/14
-
+```
