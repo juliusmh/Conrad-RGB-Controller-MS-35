@@ -1,6 +1,7 @@
 ﻿'DLL to Control the MSRGB-35 
 'By Julius HInze 
 'Copyright 2013
+'some edit
 
 Imports System.IO
 Imports System.Threading
